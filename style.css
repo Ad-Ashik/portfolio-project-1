@@ -60,6 +60,9 @@ body{
     padding: 2%;
     border-radius: 10px;
 }
+.develop-top{
+    padding-top: 50px;
+}
 .mission-details h1{
     font-size: 18px;
 }
@@ -68,4 +71,12 @@ body{
 }
 .mission-details img{
     width: 45%;
+}
+.develop-section h1{
+    font-size: 30px;
+}
+.develop-section p{
+    margin-top: -9px;
+    margin-bottom: 35px;
+    font-size: 15px;
 }
