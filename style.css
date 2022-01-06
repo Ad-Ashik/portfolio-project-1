@@ -5,6 +5,9 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    
+}
+.left-margin{
     margin-left: 150px;
 }
 .flexible-container{
@@ -79,4 +82,19 @@ body{
     margin-top: -9px;
     margin-bottom: 35px;
     font-size: 15px;
+}
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 20px;
+}
+footer h1{
+    color: #FFFFFF;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    font-weight: 100;
+}
+footer p{
+    color: #BABCC2;
+    font-size: 14px;
 }
