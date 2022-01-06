@@ -1,0 +1,50 @@
+/* @font-face {
+    font-family: yesevaOne;
+    src: url(font/YesevaOne-Regular.ttf);
+  } */
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    margin-left: 150px;
+}
+h1{
+    
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.person-img{
+    width: 80%;
+}
+.about-me{
+    margin-top: 130px;
+    width: 40%;
+    margin-right: 10%;
+}
+.about-me h1{
+    font-size: 50px;
+    font-family: 'Yeseva One', cursive;
+    font-weight: 100;
+    color: #333333;
+    border-left: 3px solid #FF5959;
+    padding-left: 5px;
+    margin-bottom: 0;
+    height: 105px;
+}
+.about-me p{
+    margin-top: 23px;
+    margin-bottom: 27px;
+}
+.mission-color{
+    color: #ff5a5a;
+}
+.explor-link{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    color: #FFF8F8;
+}
