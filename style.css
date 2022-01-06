@@ -7,11 +7,9 @@ body{
     margin: 0;
     margin-left: 150px;
 }
-h1{
-    
-}
 .flexible-container{
     display: flex;
+    padding-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -47,4 +45,27 @@ h1{
     background-color: #FF5959;
     border-radius: 5px;
     color: #FFF8F8;
+}
+.mission-section h1{
+    font-weight: 800;
+}
+.mission-head{
+    font-size: 50px;
+    text-align: center;
+}
+.mission-details{
+    width: 24%;
+    background-color: #EDF5F6;
+    margin-left: 2%;
+    padding: 2%;
+    border-radius: 10px;
+}
+.mission-details h1{
+    font-size: 18px;
+}
+.mission-details p{
+    font-size: 15px;
+}
+.mission-details img{
+    width: 35%;
 }
